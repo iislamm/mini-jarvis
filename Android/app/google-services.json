@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "98603314429",
+    "firebase_url": "https://mini-jarvis-66d33.firebaseio.com",
+    "project_id": "mini-jarvis-66d33",
+    "storage_bucket": "mini-jarvis-66d33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98603314429:android:df564fff2377e935",
+        "android_client_info": {
+          "package_name": "com.islammohamed.minijarvis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98603314429-vns259kgacmd8tn7k1omsl5qvr16qluk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr2F6mBUtHFje3D2WHj2ikOt9NtK7Z_t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98603314429-vns259kgacmd8tn7k1omsl5qvr16qluk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
